@@ -1,0 +1,8 @@
+C:\Users\Desarrollo 4\Practica\Diccionarios\bin\Debug\Diccionarios.exe.config
+C:\Users\Desarrollo 4\Practica\Diccionarios\bin\Debug\Diccionarios.exe
+C:\Users\Desarrollo 4\Practica\Diccionarios\bin\Debug\Diccionarios.pdb
+C:\Users\Desarrollo 4\Practica\Diccionarios\obj\Debug\Diccionarios.csproj.AssemblyReference.cache
+C:\Users\Desarrollo 4\Practica\Diccionarios\obj\Debug\Diccionarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desarrollo 4\Practica\Diccionarios\obj\Debug\Diccionarios.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo 4\Practica\Diccionarios\obj\Debug\Diccionarios.exe
+C:\Users\Desarrollo 4\Practica\Diccionarios\obj\Debug\Diccionarios.pdb
